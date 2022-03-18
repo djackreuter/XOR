@@ -28,6 +28,7 @@ python3 ./xor.py -f myfile.bin -k secretkey
 
 # Encrypt string
 python3 ./xor.py -s SomeFunctionCall -k secretkey
+{ 0x20, 0xa, 0xe, 0x17, 0x23, 0x1, 0x5, 0x6, 0xd, 0x1a, 0xa, 0xd, 0x31, 0x4, 0x18, 0x7, 0x0 };
 
 # Encrypt binary file and output encrypted binary file
 python3 ./xor.py -f meterpreter.bin -k 1337 -w meterpreter.enc

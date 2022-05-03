@@ -1,5 +1,3 @@
-# AUTHOR: Dylan Reuter (twitter: @dylanreuter4)
-
 #!/usr/bin/env python3
 
 import argparse
